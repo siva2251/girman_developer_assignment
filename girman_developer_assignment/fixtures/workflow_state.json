@@ -29,11 +29,47 @@
  {
   "docstatus": 0,
   "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-09-18 19:48:29.805866",
+  "name": "Joining",
+  "style": "",
+  "workflow_state_name": "Joining"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-09-18 19:49:15.442179",
+  "name": "Exit",
+  "style": "",
+  "workflow_state_name": "Exit"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
   "icon": "remove",
   "modified": "2025-09-18 16:17:26.483451",
   "name": "Rejected",
   "style": "Danger",
   "workflow_state_name": "Rejected"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-09-18 19:48:46.853466",
+  "name": "Probation",
+  "style": "",
+  "workflow_state_name": "Probation"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-09-18 19:49:03.898151",
+  "name": "Confirmation",
+  "style": "",
+  "workflow_state_name": "Confirmation"
  },
  {
   "docstatus": 0,

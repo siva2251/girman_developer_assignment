@@ -44,6 +44,34 @@
  {
   "docstatus": 0,
   "doctype": "Workflow Action Master",
+  "modified": "2025-09-18 19:59:16.415307",
+  "name": "Exit",
+  "workflow_action_name": "Exit"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-09-18 20:26:36.941908",
+  "name": "Confirm Employment",
+  "workflow_action_name": "Confirm Employment"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-09-18 20:26:46.231997",
+  "name": "Start Probation",
+  "workflow_action_name": "Start Probation"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-09-18 20:27:47.546412",
+  "name": "Mark as Exit",
+  "workflow_action_name": "Mark as Exit"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
   "modified": "2025-09-18 16:17:26.502095",
   "name": "Approve",
   "workflow_action_name": "Approve"
