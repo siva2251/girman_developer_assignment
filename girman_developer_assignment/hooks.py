@@ -249,6 +249,11 @@ doc_events = {
 fixtures = [
     "Workflow",
     "User",
+    "Salary Structure",
+    "Salary Component",
+    "Account",
+    "Holiday List",
+    "Employee",
     "Workflow State",
     "Workflow Action Master",
     {"dt": "Role", "filters": [["name","=","Hiring Manager"]]},
