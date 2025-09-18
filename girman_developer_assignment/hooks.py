@@ -137,13 +137,17 @@ app_license = "mit"
 # ---------------
 # Hook on document methods and events
 
-# doc_events = {
-# 	"*": {
-# 		"on_update": "method",
-# 		"on_cancel": "method",
-# 		"on_trash": "method"
-# 	}
-# }
+doc_events = {
+	# "*": {
+	# 	"on_update": "method",
+	# 	"on_cancel": "method",
+	# 	"on_trash": "method"
+	# }
+    "Employee":{
+        "on_update":"girman_developer_assignment.girman_developer_assignment.custom.employee.generate_experience_certificate",
+        "validate":"girman_developer_assignment.girman_developer_assignment.custom.employee.set_automation_status"
+    }
+}
 
 # Scheduled Tasks
 # ---------------
