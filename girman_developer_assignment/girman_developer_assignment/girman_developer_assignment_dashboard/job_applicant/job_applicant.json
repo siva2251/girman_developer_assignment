@@ -1,0 +1,21 @@
+{
+ "cards": [],
+ "charts": [
+  {
+   "chart": "Applicants",
+   "width": "Half"
+  }
+ ],
+ "creation": "2025-09-18 17:21:12.113075",
+ "dashboard_name": "Job Applicant",
+ "docstatus": 0,
+ "doctype": "Dashboard",
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 1,
+ "modified": "2025-09-18 17:27:23.948744",
+ "modified_by": "Administrator",
+ "module": "Girman Developer Assignment",
+ "name": "Job Applicant",
+ "owner": "Administrator"
+}
