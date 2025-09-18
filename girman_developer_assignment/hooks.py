@@ -146,6 +146,9 @@ doc_events = {
     "Employee":{
         "on_update":"girman_developer_assignment.girman_developer_assignment.custom.employee.generate_experience_certificate",
         "validate":"girman_developer_assignment.girman_developer_assignment.custom.employee.set_automation_status"
+    },
+    "Salary Structure Assignment":{
+        "validate":"girman_developer_assignment.girman_developer_assignment.custom.salary_structure_assignment.set_salary_structure"
     }
 }
 
@@ -251,6 +254,7 @@ fixtures = [
     "User",
     "Salary Structure",
     "Salary Component",
+    "Salary Structure Assignment",
     "Account",
     "Letter Head",
     "Holiday List",
