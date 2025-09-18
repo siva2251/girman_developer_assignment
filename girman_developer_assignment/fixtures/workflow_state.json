@@ -66,19 +66,19 @@
   "docstatus": 0,
   "doctype": "Workflow State",
   "icon": "",
-  "modified": "2025-09-18 19:49:03.898151",
-  "name": "Confirmation",
+  "modified": "2025-09-18 16:59:12.448675",
+  "name": "Hired",
   "style": "",
-  "workflow_state_name": "Confirmation"
+  "workflow_state_name": "Hired"
  },
  {
   "docstatus": 0,
   "doctype": "Workflow State",
   "icon": "",
-  "modified": "2025-09-18 16:59:12.448675",
-  "name": "Hired",
+  "modified": "2025-09-18 19:49:03.898151",
+  "name": "Confirmation",
   "style": "",
-  "workflow_state_name": "Hired"
+  "workflow_state_name": "Confirmation"
  },
  {
   "docstatus": 0,

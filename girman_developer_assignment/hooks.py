@@ -252,6 +252,7 @@ fixtures = [
     "Salary Structure",
     "Salary Component",
     "Account",
+    "Letter Head",
     "Holiday List",
     "Employee",
     "Workflow State",
