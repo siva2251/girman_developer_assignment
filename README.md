@@ -72,51 +72,69 @@ Custom Recruitment Workflow:
 
 ### 📸 Screenshots
 
-### Part 1
+**Part 1**
+
 **Job Applicant Workflow**
-https://github.com/user-attachments/assets/89be2cec-1b0e-4464-b153-1ee381790169
+
+![jobapplicant_workflow](https://github.com/user-attachments/assets/af863986-0ae4-4952-a048-782660b75ca3)
 
 **Custom source of application in field**
+
 <img width="1710" height="760" alt="image" src="https://github.com/user-attachments/assets/5acd9988-e665-411b-b178-eae7ab7bb742" />
 
 **Report and Chart showing applicants count grouped by Source of Application**
 
+**CHART**
+
 <img width="1658" height="579" alt="image" src="https://github.com/user-attachments/assets/74e2e240-53a2-4610-946a-d81847e645b1" />
-###
+
+**REPORT**
+
 <img width="1651" height="466" alt="image" src="https://github.com/user-attachments/assets/30b47051-8ee3-4e95-8716-a3c6f4966f07" />
 
 ### Part 2
 
 **Employee Lifecycle Workflow**
-https://github.com/user-attachments/assets/593310b4-e2d3-442e-b392-500d30ae7f9a
+
+![emplifecyclewf](https://github.com/user-attachments/assets/4bee9406-67e0-4162-b51a-97ad5387ea3d)
 
 **Automations**
-https://github.com/user-attachments/assets/31694819-aa37-42d5-ac60-957081dd1de5
+
+![statusautomation](https://github.com/user-attachments/assets/2bfa0105-82b3-4351-93e6-27ad2613bcb1)
 
 **Experience Certificate Attachment**
-https://github.com/user-attachments/assets/f73f9b9f-67b5-429f-8b15-cb57abac8006
+
+![Expcerti](https://github.com/user-attachments/assets/6e637a4b-75c6-474a-b2ed-a261032d48f9)
+
 
 ### Part 3
 
 **Salary Structure with earnings and deductions**
-https://github.com/user-attachments/assets/b26b5738-e912-4965-bc4d-d7b39477dd65
+
+![structureE D](https://github.com/user-attachments/assets/323057bf-e2fd-457d-9bb3-54a838a62149)
+
 
 **Payroll Entry for multiple employees**
-https://github.com/user-attachments/assets/fcf8e4e6-1b66-4a20-bb1c-82bce98c4623
 
-**Printformat with branding**
-[brandedprintformat.pdf](https://github.com/user-attachments/files/22414162/brandedprintformat.pdf)
+![multEmp](https://github.com/user-attachments/assets/fb76adcc-6a73-4ea6-8847-ef09a54d4cfb)
 
+
+**Printformat with branding(Print Screen)**
+
+<img width="1900" height="944" alt="image" src="https://github.com/user-attachments/assets/d74ae721-8741-4d94-8d26-0fe95bd22c27" />
 
 ### Part 4
 
 **Salary Structures: Old Regime & New Regime**
-https://github.com/user-attachments/assets/48f899a4-8829-4304-bb84-0b6ad2f3788f
+
+![old_new](https://github.com/user-attachments/assets/c56cd78f-31d2-4753-a064-a35e66bcb3ef)
 
 **Custom tax regime preference field**
+
 <img width="1631" height="966" alt="image" src="https://github.com/user-attachments/assets/7e1b3706-64c5-4f2d-9d28-dc3b345bbbc8" />
 
 **Tax comparison report**
+
 <img width="1710" height="760" alt="image" src="https://github.com/user-attachments/assets/fd60115f-4f95-4b2f-a859-f20f94628db0" />
 
 ### Part 5
@@ -124,12 +142,13 @@ https://github.com/user-attachments/assets/48f899a4-8829-4304-bb84-0b6ad2f3788f
 
 
 
+### 👨‍💻 Author
 
+**Sivanesh V J**
 
+**Frappe Developer Assignment Submission**
 
-
-
-
+**Email: sivanesh2251@gmail.com**
 
 ### License
 
