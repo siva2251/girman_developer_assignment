@@ -75,15 +75,6 @@
   "docstatus": 0,
   "doctype": "Workflow State",
   "icon": "",
-  "modified": "2025-09-18 19:49:03.898151",
-  "name": "Confirmation",
-  "style": "",
-  "workflow_state_name": "Confirmation"
- },
- {
-  "docstatus": 0,
-  "doctype": "Workflow State",
-  "icon": "",
   "modified": "2025-09-18 16:58:17.087253",
   "name": "Application",
   "style": "",
@@ -106,6 +97,15 @@
   "name": "Offer",
   "style": "",
   "workflow_state_name": "Offer"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2025-09-18 19:49:03.898151",
+  "name": "Confirmation",
+  "style": "",
+  "workflow_state_name": "Confirmation"
  },
  {
   "docstatus": 0,
