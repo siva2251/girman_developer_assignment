@@ -1,0 +1,51 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-09-18 16:17:26.503136",
+  "name": "Reject",
+  "workflow_action_name": "Reject"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-09-18 16:17:26.503984",
+  "name": "Review",
+  "workflow_action_name": "Review"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-09-18 18:21:36.135247",
+  "name": "Move to screening",
+  "workflow_action_name": "Move to screening"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-09-18 18:21:48.814736",
+  "name": "Schedule Interview",
+  "workflow_action_name": "Schedule Interview"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-09-18 18:22:17.380430",
+  "name": "Send Offer",
+  "workflow_action_name": "Send Offer"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-09-18 18:22:27.441103",
+  "name": "Hire",
+  "workflow_action_name": "Hire"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow Action Master",
+  "modified": "2025-09-18 16:17:26.502095",
+  "name": "Approve",
+  "workflow_action_name": "Approve"
+ }
+]

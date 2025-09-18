@@ -242,3 +242,11 @@ app_license = "mit"
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
 
+fixtures = [
+    "Workflow",
+    "User",
+    "Workflow State",
+    "Workflow Action Master",
+    {"dt": "Role", "filters": [["name","=","Hiring Manager"]]},
+    "Role Profile"
+]
