@@ -1,6 +1,7 @@
 {
  "actions": [],
  "allow_rename": 1,
+ "autoname": "EID-.######",
  "creation": "2025-09-19 00:06:12.097213",
  "doctype": "DocType",
  "engine": "InnoDB",
@@ -8,44 +9,45 @@
   "employee",
   "section_80c",
   "section_80d",
-  "other_exemptions",
-  "total_investment"
+  "other_exemptions"
  ],
  "fields": [
   {
    "fieldname": "employee",
    "fieldtype": "Link",
+   "in_list_view": 1,
+   "in_standard_filter": 1,
    "label": "Employee",
+   "link_filters": "[[\"Employee\",\"status\",\"=\",\"Active\"]]",
    "options": "Employee"
   },
   {
    "fieldname": "section_80c",
    "fieldtype": "Currency",
+   "in_list_view": 1,
    "label": "Section 80c"
   },
   {
    "fieldname": "section_80d",
    "fieldtype": "Currency",
+   "in_list_view": 1,
    "label": "Section 80d"
   },
   {
    "fieldname": "other_exemptions",
    "fieldtype": "Currency",
+   "in_list_view": 1,
    "label": "Other Exemptions"
-  },
-  {
-   "fieldname": "total_investment",
-   "fieldtype": "Currency",
-   "label": "Total Investment"
   }
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-09-19 00:08:29.865475",
+ "modified": "2025-09-19 12:23:23.667466",
  "modified_by": "Administrator",
  "module": "Girman Developer Assignment",
  "name": "Employee Investment Declaration",
+ "naming_rule": "Expression (old style)",
  "owner": "Administrator",
  "permissions": [
   {
