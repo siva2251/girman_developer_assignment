@@ -4,6 +4,8 @@ app_publisher = "sivanesh"
 app_description = "Application for Assessment"
 app_email = "sivanesh2251@gmail.com"
 app_license = "mit"
+required_apps = ["erpnext", "hrms"]
+
 
 # Apps
 # ------------------
