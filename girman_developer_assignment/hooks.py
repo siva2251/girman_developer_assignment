@@ -255,18 +255,18 @@ doc_events = {
 # }
 
 fixtures = [
+    "Company",
+    "Account",
     "Workflow",
-    "User",
+    {"dt": "User", "filters": ["name","not in",["Administrator","Guest"]]},
+    {"dt": "Role", "filters": [["name","=","Hiring Manager"]]},
+    "Role Profile",
     "Salary Structure",
     "Salary Component",
     "Salary Structure Assignment",
-    "Account",
     "Letter Head",
     "Holiday List",
     "Employee",
     "Workflow State",
-    "Workflow Action Master",
-    {"dt": "Role", "filters": [["name","=","Hiring Manager"]]},
-    "Role Profile",
-    "Company"
+    "Workflow Action Master"
 ]
