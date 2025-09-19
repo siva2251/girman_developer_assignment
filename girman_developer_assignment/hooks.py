@@ -267,5 +267,6 @@ fixtures = [
     "Workflow State",
     "Workflow Action Master",
     {"dt": "Role", "filters": [["name","=","Hiring Manager"]]},
-    "Role Profile"
+    "Role Profile",
+    "Company"
 ]
