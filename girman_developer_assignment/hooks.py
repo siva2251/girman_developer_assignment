@@ -258,15 +258,12 @@ fixtures = [
     "Company",
     "Account",
     "Workflow",
-    {"dt": "User", "filters": ["name","not in",["Administrator","Guest"]]},
     {"dt": "Role", "filters": [["name","=","Hiring Manager"]]},
     "Role Profile",
     "Salary Structure",
     "Salary Component",
-    "Salary Structure Assignment",
     "Letter Head",
     "Holiday List",
-    "Employee",
     "Workflow State",
     "Workflow Action Master"
 ]

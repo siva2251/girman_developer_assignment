@@ -1,7 +1,7 @@
 [
  {
   "align": "Left",
-  "content": "=    \n    <div class=\"header\">\n        <table class=\"col-xs-12\"></table>\n            \n                \n                    <img style=\"width:60%;\" src=\"/files/girman_preview.jpg\" alt=\"Image Description\">\n                    <p style=\"float:right;\"> <b style=\"color: #267cf7; font-size: 24px;\">S</b><br> Bangalore<br>  <b><span style=\"color: #267cf7;\">GSTIN&nbsp;&nbsp;32569D1ZA</span></b></p>\n    </div>",
+  "content": "=    \n    <div class=\"header\">\n        <table class=\"col-xs-12\"></table>\n            \n                \n                    <img style=\"width:60%;\" src=\"/assets/girman_developer_assignment/images/girman_preview.jpg\" alt=\"Image Description\">\n                    <p style=\"float:right;\"> <b style=\"color: #267cf7; font-size: 24px;\">S</b><br> Bangalore<br>  <b><span style=\"color: #267cf7;\">GSTIN&nbsp;&nbsp;32569D1ZA</span></b></p>\n    </div>\n",
   "disabled": 0,
   "docstatus": 0,
   "doctype": "Letter Head",
@@ -18,7 +18,7 @@
   "image_width": 0.0,
   "is_default": 1,
   "letter_head_name": "S Letter Head",
-  "modified": "2025-09-18 21:30:13.620566",
+  "modified": "2025-09-19 13:44:52.966216",
   "name": "S Letter Head",
   "source": "HTML"
  }
