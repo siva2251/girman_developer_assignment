@@ -141,7 +141,8 @@ Custom Recruitment Workflow:
 ### Part 5
 
 **Employee Investment Declaration**
-<img width="1900" height="944" alt="image" src="https://github.com/user-attachments/assets/c33ff117-915d-460b-b2c5-e121a733ffe4" />
+<img width="1900" height="944" alt="image" src="https://github.com/user-attachments/assets/26020d86-4d7d-45b4-9e61-c5a4e511d446" />
+
 
 **Payroll tax calculations**
 <img width="1900" height="944" alt="image" src="https://github.com/user-attachments/assets/a51c0e69-4db4-47e6-af5b-70db8431b155" />
