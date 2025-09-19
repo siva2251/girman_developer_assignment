@@ -2,6 +2,18 @@
 
 Application for Assessment
 
+---
+
+### ⚠️ Important Pre-Setup Step
+Before installing the app, first create a Company with the name **"S"**.  
+- You can do this in the **Setup Wizard**, or  
+- Manually create a Company named **"S"** from the Company doctype.  
+
+This is required for fixtures to work properly.
+
+---
+
+
 ### Setup Instructions
 
 1. **Clone Repository**
