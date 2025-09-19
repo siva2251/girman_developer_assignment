@@ -149,6 +149,9 @@ doc_events = {
     },
     "Salary Structure Assignment":{
         "validate":"girman_developer_assignment.girman_developer_assignment.custom.salary_structure_assignment.set_salary_structure"
+    },
+    "Salary Slip":{
+        "before_submit":"girman_developer_assignment.girman_developer_assignment.custom.salary_slip.update_investment_deductions"
     }
 }
 
