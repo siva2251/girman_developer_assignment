@@ -14,9 +14,9 @@ bench --site your-site-name install-app girman_developer_assignment
 2. **Migrate & Build**
 
 ```bash
-bench --site your-site-name migrate
-bench build
+bench build --app girman_developer_assignment
 bench clear-cache
+bench --site your-site-name migrate
 ```
 
 3. **Login Credentials**
@@ -68,7 +68,8 @@ Custom Recruitment Workflow:
 **Part 5 – Customization**
 
 * Custom Doctype: Employee Investment Declaration
-* Fields: Section 80C, Section 80D, Other Exemptions, Total Investment.
+* Fields: Employee, Section 80C, Section 80D, Other Exemptions.
+* Link this to Payroll so that tax calculations consider these declarations.
 
 ### 📸 Screenshots
 
@@ -138,6 +139,13 @@ Custom Recruitment Workflow:
 <img width="1710" height="760" alt="image" src="https://github.com/user-attachments/assets/fd60115f-4f95-4b2f-a859-f20f94628db0" />
 
 ### Part 5
+
+**Employee Investment Declaration**
+<img width="1900" height="944" alt="image" src="https://github.com/user-attachments/assets/c33ff117-915d-460b-b2c5-e121a733ffe4" />
+
+**Payroll tax calculations**
+<img width="1900" height="944" alt="image" src="https://github.com/user-attachments/assets/a51c0e69-4db4-47e6-af5b-70db8431b155" />
+
 
 
 
